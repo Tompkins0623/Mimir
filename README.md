@@ -27,7 +27,7 @@ Systems (ICPADS) 2017.
 * git clone https://github.com/TauferLab/Mimir.git
 * cd Mimir
 * autoreconf -i
-* ./configure --perfix=/mimir/install/directory
+* ./configure --prefix=/mimir/install/directory
 * make
 * make install
 
